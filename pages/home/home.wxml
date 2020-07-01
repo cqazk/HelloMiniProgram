@@ -1,2 +1,5 @@
 <!--pages/home/home.wxml-->
 <text>hello Prrgram</text>
+
+<view>知识点二</view>
+<view>哈哈哈</view>
